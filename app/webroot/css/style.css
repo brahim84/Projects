@@ -1,0 +1,86 @@
+/*********************************************************************************
+	#Revisions		Name				Date			Description
+	1				Rahim Basheer		24/5/2018		Initial Version
+	
+ ********************************************************************************/
+.row{
+	margin:0px !important;
+}
+.navbar .container{
+	width:87%;
+}
+ 
+.navbar-default {
+  background-color: #eb008d;
+  border-color: black;
+}
+.navbar-default .navbar-brand {
+    background-color: black;
+}
+.navbar-default .nav>li>a {
+    color: black;
+	text-shadow: none;
+	line-height:30px;
+}
+.navbar-brand{
+  padding: 0;
+  float:left;
+}
+.navbar .nav .dropdown-toggle .caret{
+	margin-top:10px;
+}
+.pagination{
+	margin-top:0px;
+}
+.header-title{
+	float:left;
+	font-size:22px;
+	padding:14px;
+}
+.header-title a{
+	color:#000;
+	text-decoration:none;
+}
+#flashMessage {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    background: #EEEEEE;
+    color: #444444;
+}
+.prod_details{
+	float:left;
+	width:60%;
+	margin-left:10px;
+}
+.prod_img {
+	float:left;
+	width:20%;
+	padding:10px;
+	background-color: #FFF;
+	text-align:center;
+}
+.prod_img img{
+	height:150px !important;
+}
+
+.well{
+	min-height:132px;
+	float:left;
+}
+.well_popup{
+	width:92%;
+}
+.prod_desc{
+	float:left;
+	width:70%;
+}
+.prod_add_cart{
+	float:right;
+}
+.modal.fade{
+	top:150%;
+}
+#ProductPromocode{
+	margin:0px;
+}
